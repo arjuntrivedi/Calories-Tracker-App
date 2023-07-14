@@ -18,7 +18,8 @@ I used `html`, `css`, `JavaScript`, `localStorage`, and `React.js`
 
 ## Setup
 - Download or clone the repository
-- Run `npm install` to run the app in the development mode.
+- 
+- Run `npm start` to run the app in the development mode.
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - run `npm build` to deploy the app
 
